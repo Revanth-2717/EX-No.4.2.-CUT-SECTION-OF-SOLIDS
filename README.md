@@ -45,5 +45,6 @@ To create the solid model from given drawing and section the solid model
 
 ## RESULT:
 Thus, the cut section for solid model is created.
+![image](https://github.com/Revanth-2717/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/152462274/7c8f0959-c284-48c3-99c0-fa6c8e002ef8)
 
 
